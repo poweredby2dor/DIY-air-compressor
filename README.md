@@ -7,20 +7,12 @@ Above the industrial design that the project has, one of the main requirement th
 
 Here are some pictures of the journey:
 
-<img src="Photos/IMG_4315.JPG">
+<img src="Photos/IMG_4315.JPG" width=400> <img src="Photos/IMG_4316.JPG" width=400>
 
-<img src="Photos/IMG_4316.JPG">
+<img src="Photos/IMG_4318.JPG" width=400> <img src="Photos/IMG_4347.JPG" width=400>
 
-<img src="Photos/IMG_4318.JPG">
+<img src="Photos/IMG_4352.JPG" width=400> <img src="Photos/IMG_4416.JPG" width=400>
 
-<img src="Photos/IMG_4347.JPG">
-
-<img src="Photos/IMG_4352.JPG">
-
-<img src="Photos/IMG_4416.JPG">
-
-<img src="Photos/IMG_4465.JPG">
-
-<img src="Photos/IMG_4468.JPG">
+<img src="Photos/IMG_4465.JPG" width=400> <img src="Photos/IMG_4468.JPG" width=400>
 
 <img src="Photos/IMG_4475.JPG">
