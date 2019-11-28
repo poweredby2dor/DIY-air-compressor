@@ -16,3 +16,10 @@ Here are some pictures of the journey:
 <img src="Photos/IMG_4465.JPG" width=400> <img src="Photos/IMG_4468.JPG" width=400>
 
 <img src="Photos/IMG_4475.JPG">
+
+Project update #1
+
+* modified input path of air (created oil bypass)
+* added a pressure regulator
+
+<img src="Photos/IMG_4702.JPG" width=400> <img src="Photos/IMG_4708.JPG" width=400>
